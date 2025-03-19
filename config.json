@@ -1,0 +1,18 @@
+{
+  "hidden_channels": 10,
+  "epochs": 50,
+  "mod": "CustomGAT",
+  "trainset": false,
+  "lr": 0.0005,
+  "batch_size": 15,
+  "stimset": "SCEGRAM",
+  "consistency": "CON",
+  "nodes": "uniform_object_anchor_diag_word2vec",
+  "edges": "uniform_distance_phraseprop_angle_binary",
+  "node_features": ["uniform"],
+  "edge_features": ["uniform"],
+  "binary": false,
+  "anchor_weighted": false,
+  "n_runs": 50,
+  "control_model": false
+}

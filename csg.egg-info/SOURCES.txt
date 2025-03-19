@@ -1,0 +1,11 @@
+README.md
+setup.py
+csg/__init__.py
+csg/data_io.py
+csg/gnn.py
+csg/misc.py
+csg/validation.py
+csg.egg-info/PKG-INFO
+csg.egg-info/SOURCES.txt
+csg.egg-info/dependency_links.txt
+csg.egg-info/top_level.txt
